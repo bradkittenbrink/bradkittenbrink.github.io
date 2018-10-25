@@ -15,7 +15,7 @@ Job Search
 
 I'm primarily looking for positions as Backend Software Engineer or similar. I'm also interested in Android Engineer or Mobile Engineer type roles.
 
-What I’m looking for in a company:
+What I'm looking for in a company:
 - Must support women & minorities & other marginalized groups in leadership roles.
 - No particular product focus, other than no Fin-tech and I prefer products that users actually pay for.
 - Prefer medium size company, although open to other sizes
